@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 39397be9bbfdbee4e93bda78cf4dd4ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1581074017318146451
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_0
+  - first:
+      213: -6320248074330752114
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_1
+  - first:
+      213: 6246009692388854179
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_2
+  - first:
+      213: 5386686698572676812
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_3
+  - first:
+      213: -1267305427129568665
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_4
+  - first:
+      213: 8696715159583751443
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_5
+  - first:
+      213: -320471744903634939
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_6
+  - first:
+      213: -3828511858021275634
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_7
+  - first:
+      213: -5220357475342851454
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_8
+  - first:
+      213: -8670388102577548148
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_9
+  - first:
+      213: 7529521725048513891
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_10
+  - first:
+      213: 3840934575401499887
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_11
+  - first:
+      213: -3717549783654641768
+    second: Wizard_Animation_1_Sprite_Sheet_Coloured_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 307
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39119dd117a11f510800000000000000
+      internalID: 1581074017318146451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 290
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3b2dccd7f948a0800000000000000
+      internalID: -6320248074330752114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 311
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90c72f8b84ea650800000000000000
+      internalID: 6246009692388854179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 297
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefeb0330b51ca40800000000000000
+      internalID: 5386686698572676812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_4
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 295
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627402bd60a96ee0800000000000000
+      internalID: -1267305427129568665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 313
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7eb74c50f0b870800000000000000
+      internalID: 8696715159583751443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_6
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500287c55a47d8bf0800000000000000
+      internalID: -320471744903634939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 17
+        width: 205
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08654cdfb46edac0800000000000000
+      internalID: -3828511858021275634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 291
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28262a9e8809d87b0800000000000000
+      internalID: -5220357475342851454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 13
+        width: 204
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84971955f79ca780800000000000000
+      internalID: -8670388102577548148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 22
+        width: 205
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656a16ad1c3e7860800000000000000
+      internalID: 7529521725048513891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 18
+        width: 204
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec725c65adbd4530800000000000000
+      internalID: 3840934575401499887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Animation_1_Sprite_Sheet_Coloured_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 22
+        width: 205
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4f6e0b2c986cc0800000000000000
+      internalID: -3717549783654641768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
